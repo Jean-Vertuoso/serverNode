@@ -21,7 +21,6 @@
 
 - #### 1. Escolha uma pasta para o projeto, clique com o botão direito do mouse e escolha a opção "**Git Bash**";
 - #### 2. Ao abrir o console Bash do Git, basta digitar: **git clone "https://github.com/Jean-Vertuoso/serverNode.git"** ;
-- #### 3. Após a clonagem, ainda no console Git Bash digite o comando: **git checkout lista3** e depois **git pull** , para sincronizar o repositório com a branch correta do trabalho;
-- #### 4. Feche a janela do Git Bash, clique na barra de endereços da pasta e digite: **cmd** ;
-- #### 5. Ao abrir o Prompt de Comando do Windows, digite: **npm install** , para que sejam instalados os módulos Node;
-- #### 6. Instalados os módulos, ainda com o Prompt de Comando aberto, basta digitar o comando: **node server.js** para iniciar o servidor;
+- #### 3. Feche a janela do Git Bash, clique na barra de endereços da pasta e digite: **cmd** ;
+- #### 4. Ao abrir o Prompt de Comando do Windows, digite: **npm install** , para que sejam instalados os módulos Node;
+- #### 5. Instalados os módulos, ainda com o Prompt de Comando aberto, basta digitar o comando: **node server.js** para iniciar o servidor;
